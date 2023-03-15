@@ -33,6 +33,4 @@ Continual approach:
 $ npm run test-watch
 ```
 
-# Who do I talk to about this repository?
 
-Nuno Bettencourt
